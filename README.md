@@ -1,9 +1,9 @@
 # Thực hành buổi 1: Lập trình Python với MQTT
 
 - Sinh viên: 
-Lê Huy Hải – B23DCCN272
-Phạm Thu Hà - B23DCCN267
-Nguyễn Thu Thảo - B23DCCN776
++Lê Huy Hải – B23DCCN272
++Phạm Thu Hà - B23DCCN267
++Nguyễn Thu Thảo - B23DCCN776
 - Thư viện: `paho-mqtt` (hỗ trợ cả bản 1.x và 2.x)
 
 ## 1. Cấu hình MQTT broker
